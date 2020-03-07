@@ -1,4 +1,4 @@
-# Elevator stops
+# Elevator stops on Codility
 There is an elevator in a building with M floors. This elevator can take a max of X people at a time or max of total weight Y. Given that a set of people and their weight and the floor they need to stop, how many stops has the elevator taken to serve all the people? Consider the elevator serves in “first come first serve” basis and the order for the queue can not be changed.
 
 Example:
